@@ -4,4 +4,4 @@ Please note: **This doesn't change the process itself, not compatibility with th
 
 This is still under construction!
 
-dcs8000lh.md
+[Go here for the original dcs8000lh.md](dcs8000lh.md)
