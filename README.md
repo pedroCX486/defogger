@@ -36,7 +36,7 @@ theory, but could fail like anything untested.
 The v2.02.02 update is available from
 https://mydlinkmpfw.auto.mydlink.com/DCS-8000LH/DCS-8000LH_Ax_v2.02.02_3014.bin
 at the time of writing. But I assume this link will stop working soon, so you can 
-also find it here at this repo.
+also find it [here at this repo](8000LH_Ax_v2.02.02_3014.bin).
 
 
 ## Changelog
