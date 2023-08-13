@@ -307,7 +307,7 @@ an additional input parameter for most commands*
    "mydlink" version.
    
 
-**NOTE**; You need to [build](wiki/BUILDING_FIRMWARE.md) a **fw.tar** firmware
+**NOTE**: You need to [build](wiki/BUILDING_FIRMWARE.md) a **fw.tar** firmware
 update image first.
 
 ```bash
