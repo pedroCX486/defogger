@@ -84,10 +84,10 @@ We got the solution to this.
  * Linux PC with Bluetooth (Respberry Pi 3/4 is a great choice!)
  * python3 with @IanHarvey's
   [**bluepy**](https://ianharvey.github.io/bluepy-doc/index.html)
-  library
+  library (`pip3 install bluepy` but this is Linux only!)
  * 2.4Ghz WiFi network with WPA2-PSK and a known password
  * `mksquashfs` from the `squashfs-tools` package
- * A tftp server or web server accepting file uploads (for backups)
+ * A tftp server or web server accepting file uploads (if you're going for backups)
 
 Most recent Linux distros will probably do. The bluepy library can be
 installed using pip if it is not available as a distro package.  Other
@@ -99,7 +99,7 @@ CD/DVD/USB stick.
 
 #### macOS
 
-If you're on a Mac, you can still do the process (including using mksquashfs) 
+If you're on a Mac, you can still do the process (including using mksquashfs by installing it with brew) 
 but you won't be able to use the [bluetooth script](dcs8000lh-configure.py). 
 Everything will need be done through the serial console manually. 
 Including running the commands that would be run by the bluetooth script. 
