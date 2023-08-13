@@ -55,8 +55,8 @@ Additionally, there is no way to downgrade the firmware.  In fact,
 there is no documented way to install any firmware image at all,
 except trusting the "mydlink" cloud service to do it for you.
 
-Update: And now, D-Link has discontinued their Camera Cloud service,
-basically making the DCS-8000LH around the world, bricks.
+Update 2023: And now, D-Link has discontinued their Camera Cloud service,
+basically making all the DCS-8000LH around the world, bricks.
 
 We got the solution to this.
 
